@@ -3,7 +3,7 @@ This is a Symfony bundle for the MoveOn API wrapper (https://github.com/PRayno/m
 
 ## Installation
 Install the library via Composer by running the following command:
-`composer require prayno/moveon`
+`composer require prayno/-api-bundle`
 
 ## Configuration
 Create a config/packages/prayno_moveon_api.yaml file in your Symfony application with the following settings :
