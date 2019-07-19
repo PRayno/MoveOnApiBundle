@@ -1,0 +1,22 @@
+{
+    "name": "prayno/moveon-api-bundle",
+    "description": "MoveOn API wrapper Symfony bundle",
+    "type": "symfony-bundle",
+    "require": {
+        "php": "^7.1.3",
+        "symfony/framework-bundle": "^4.0",
+        "prayno/moveon": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "PRayno\\MoveOnApiBundle\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RAYNAUD Pierre",
+            "email": "pierre.raynaud@uca.fr"
+        }
+    ]
+}
