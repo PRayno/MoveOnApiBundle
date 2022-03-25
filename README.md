@@ -1,3 +1,7 @@
+> # Package no longer maintained
+> The v2 of the prayno/moveon package doesn't require the use of this library to be integrated in Symfony anymore
+
+
 # MoveOnApiBundle
 This is a Symfony bundle for the MoveOn API wrapper (https://github.com/PRayno/moveon)
 
